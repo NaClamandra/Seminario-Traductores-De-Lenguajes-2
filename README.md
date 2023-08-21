@@ -14,5 +14,4 @@ Real = entero.entero+
 # Etapa del proyecto analizador léxico completo.
 Genera un analizador léxico utilizando todos los símbolos léxicos en el archivo simbolos_lexicos.pdf
 
-![image](https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/assets/74439320/85e2cf2d-f8d5-4542-b077-6a31e8559631)
-![image](https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/assets/74439320/a0366798-f219-42f0-9114-38a490fa949b)
+![image](https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/assets/74439320/c6c63f3e-7fa4-4739-8a5d-a13687cad169)
