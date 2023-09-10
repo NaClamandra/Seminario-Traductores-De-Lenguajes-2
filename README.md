@@ -12,7 +12,7 @@ Ejercicio 1
 
 Resultados:
 
-![Captura de pantalla 2023-08-27 151921](https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/assets/74439320/cc4f20fb-066f-4e32-8fe1-ee5d8518701e)
+![image](https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/assets/74439320/8b9c104c-99c3-46db-8135-9b4cdf1ab58e)
 
 
 
@@ -23,5 +23,7 @@ Ejercicio 2
 
 
 Resultados:
-![Captura de pantalla 2023-08-27 152003](https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/assets/74439320/5e0ecbcc-8f56-448a-b425-4e3151ab60af)
+![image](https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/assets/74439320/fbb370f7-e9ba-41d6-a0f0-d852063c8143)
+![image](https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/assets/74439320/14e69ec0-d883-4d35-a943-15faf1251277)
+
 
