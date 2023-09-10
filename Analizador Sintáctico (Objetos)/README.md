@@ -3,6 +3,7 @@ Modifica el tipo de dato de la pila de tu Analizador Sintáctico LR(1) ahora rea
 
 
 Clase ElementoPila:
+
 ![image](https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/assets/74439320/87523d8e-7995-4a31-bc94-20e2009a20ef)
 
 Clase Terminal:
