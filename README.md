@@ -18,4 +18,4 @@ Genera un analizador léxico utilizando todos los símbolos léxicos en el archi
 
 Link: https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/tree/Analisis-Lexico/Analizador%20Lexico%20Completo
 
-![image](https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/assets/74439320/c6c63f3e-7fa4-4739-8a5d-a13687cad169)
+![image](https://github.com/NaClamandra/Seminario-Traductores-De-Lenguajes-2/assets/74439320/6ba2a025-2af0-49e4-8f30-a93d3dd5f0c9)
